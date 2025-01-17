@@ -60,9 +60,9 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 272214	Mesoplodon ginkgodens		Ziphiidae	long_list					Ginkgo-Toothed Beaked Whale
 74394	Mesoplodon grayi		Ziphiidae	long_list					Gray's Beaked Whale
 52112	Mesoplodon hectori		Ziphiidae	long_list					Hector's Beaked Whale
-1234366	Mesoplodon hotaula		Ziphiidae	long_list					Deraniyagala’s beaked whale
+1234366	Mesoplodon hotaula		Ziphiidae	long_list					Deraniyagala√ïs beaked whale
 74395	Mesoplodon layardii		Ziphiidae	long_list					Strap-Toothed Whale
-52113	Mesoplodon mirus		Ziphiidae	long_list					True's Beaked Whale
+52113	Mesoplodon mirus		Ziphiidae	long_list	insdc_open				True's Beaked Whale
 187411	Mesoplodon perrini		Ziphiidae	long_list					Perrin's Beaked Whale
 27617	Mesoplodon peruvianus		Ziphiidae	long_list					Pygmy Beaked Whale
 52114	Mesoplodon stejnegeri		Ziphiidae	long_list					Stejneger's Beaked Whale
