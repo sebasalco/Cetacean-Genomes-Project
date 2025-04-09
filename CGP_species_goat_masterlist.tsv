@@ -22,7 +22,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 103582	Cephalorhynchus commersonii		Delphinidae	long_list					Commerson's Dolphin
 27608	Cephalorhynchus eutropia		Delphinidae	long_list					Chilean Dolphin
 103583	Cephalorhynchus heavisidii		Delphinidae	long_list					Heaviside's Dolphin
-37035	Cephalorhynchus hectori		Delphinidae	long_list					Hector's Dolphin
+37035	Cephalorhynchus hectori		Delphinidae	long_list	done			https://data.agdr.org.nz/discovery/NZ-00058/	Hector's Dolphin
 9749	Delphinapterus leucas		Monodontidae	long_list	in assembly				Beluga
 103584	Delphinus capensis		Delphinidae	long_list					Long-Beaked Common Dolphin
 9728	Delphinus delphis		Delphinidae	long_list	insdc_open				Short-Beaked (saddle-backed) Common Dolphin
