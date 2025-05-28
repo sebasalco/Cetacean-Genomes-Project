@@ -9,7 +9,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 27602	Balaena mysticetus		Balaenidae	long_list					Bowhead Whale
 9767	Balaenoptera acutorostrata		Balaenopteridae	long_list	published		10.12688/wellcomeopenres.23367.1		Common Minke Whale
 33556	Balaenoptera bonaerensis		Balaenopteridae	long_list					Antarctic Minke Whale
-9768	Balaenoptera borealis		Balaenopteridae	long_list	in_assembly			DToL	Sei Whale
+9768	Balaenoptera borealis		Balaenopteridae	long_list	insdc_open			DToL	Sei Whale
 9769	Balaenoptera edeni		Balaenopteridae	long_list					Bryde's Whale
 9771	Balaenoptera musculus		Balaenopteridae	long_list	published		10.1093/molbev/msae036		Blue Whale
 255217	Balaenoptera omurai		Balaenopteridae	long_list					Omura's Whale
