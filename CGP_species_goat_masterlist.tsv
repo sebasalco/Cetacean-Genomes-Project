@@ -14,7 +14,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 9771	Balaenoptera musculus		Balaenopteridae	long_list	published		10.1093/molbev/msae036		Blue Whale
 255217	Balaenoptera omurai		Balaenopteridae	long_list					Omura's Whale
 9770	Balaenoptera physalus		Balaenopteridae	long_list	in_assembly			DToL	Fin Whale
-2746895	Balaenoptera ricei		Balaenopteridae	long_list	insdc_open				Rice's whale
+2746895	Balaenoptera ricei		Balaenopteridae	long_list	published		10.3389/fmars.2025.1562045		Rice's whale
 74391	Berardius arnuxii		Ziphiidae	long_list					Arnoux's Beaked Whale
 48742	Berardius bairdii		Ziphiidae	long_list	done			LOEWE-TBG	Baird's Beaked Whale
 2608848	Berardius minimus		Ziphiidae	long_list					Black beaked whale
@@ -25,20 +25,20 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 37035	Cephalorhynchus hectori		Delphinidae	long_list	done			https://data.agdr.org.nz/discovery/NZ-00058/	Hector's Dolphin
 9749	Delphinapterus leucas		Monodontidae	long_list	in assembly				Beluga
 103584	Delphinus capensis		Delphinidae	long_list					Long-Beaked Common Dolphin
-9728	Delphinus delphis		Delphinidae	long_list	insdc_open				Short-Beaked (saddle-backed) Common Dolphin
-9764	Eschrichtius robustus		Eschrichtiidae	long_list	insdc_open				Gray Whale
+9728	Delphinus delphis		Delphinidae	long_list	published		10.3389/fmars.2025.1562045		Short-Beaked (saddle-backed) Common Dolphin
+9764	Eschrichtius robustus		Eschrichtiidae	long_list	published		10.3389/fmars.2025.1562045		Gray Whale
 160595	Eubalaena australis		Balaenidae	long_list					Southern Right Whale
-27606	Eubalaena glacialis		Balaenidae	long_list	insdc_open				North Atlantic Right Whale
+27606	Eubalaena glacialis		Balaenidae	long_list	published		10.3389/fmars.2025.1562045		North Atlantic Right Whale
 302098	Eubalaena japonica		Balaenidae	long_list					North Pacific Right Whale
 103592	Feresa attenuata		Delphinidae	long_list					Pygmy Killer Whale
 38241	Globicephala macrorhynchus		Delphinidae	long_list					Short-Finned Pilot Whale
-9731	Globicephala melas		Delphinidae	long_list	insdc_open				Long-Finned Pilot Whale
+9731	Globicephala melas		Delphinidae	long_list	published		10.12688/wellcomeopenres.23919.1		Long-Finned Pilot Whale
 83653	Grampus griseus		Delphinidae	long_list	insdc_open			DToL	Risso's Dolphin
-48744	Hyperoodon ampullatus		Ziphiidae	long_list	insdc_open				North Atlantic Bottlenose Whale
+48744	Hyperoodon ampullatus		Ziphiidae	long_list	published		10.12688/wellcomeopenres.22743.1		North Atlantic Bottlenose Whale
 74392	Hyperoodon planifrons		Ziphiidae	long_list					Southern Bottlenose Whale
 221924	Indopacetus pacificus		Ziphiidae	long_list	data_generation			LOEWE-TBG	Indo-Pacific Beaked Whale
-9725	Inia geoffrensis		Iniidae	long_list	insdc_open			LOEWE-TBG	"Boto, Amazon River dolphin"
-27615	Kogia breviceps		Kogiidae	long_list	insdc_open				Pygmy Sperm Whale
+9725	Inia geoffrensis		Iniidae	long_list	published		10.3389/fmars.2025.1562045	LOEWE-TBG	"Boto, Amazon River dolphin"
+27615	Kogia breviceps		Kogiidae	long_list	published		10.3389/fmars.2025.1562045		Pygmy Sperm Whale
 9752	Kogia sima		Kogiidae	long_list					Dwarf Sperm Whale
 103594	Lagenodelphis hosei		Delphinidae	long_list					Fraser's Dolphin
 90246	Lagenorhynchus acutus		Delphinidae	long_list	insdc_open			DToL	Atlantic White-Sided Dolphin
@@ -50,11 +50,11 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 118797	Lipotes vexillifer		Lipotidae	long_list					Baiji
 103588	Lissodelphis borealis		Delphinidae	long_list					Northern Right Whale Dolphin
 27613	Lissodelphis peronii		Delphinidae	long_list					Southern Right Whale Dolphin
-9773	Megaptera novaeangliae		Balaenopteridae	long_list	insdc_open			Giugi Carminati	Humpback Whale
+9773	Megaptera novaeangliae		Balaenopteridae	long_list	published		10.1038/s41597-024-03922-9	Giugi Carminati	Humpback Whale
 48745	Mesoplodon bidens		Ziphiidae	long_list	insdc_open				Sowerby's Beaked Whale
 74393	Mesoplodon bowdoini		Ziphiidae	long_list					Andrew's Beaked Whale
 9758	Mesoplodon carlhubbsi		Ziphiidae	long_list					Hubbs' Beaked Whale
-48708	Mesoplodon densirostris		Ziphiidae	long_list	insdc_open				Blainville's Beaked Whale
+48708	Mesoplodon densirostris		Ziphiidae	long_list	published		10.3389/fmars.2025.1562045		Blainville's Beaked Whale
 2878263	Mesoplodon eueu		Ziphiidae	long_list					Ramari's beaked whale
 27616	Mesoplodon europaeus		Ziphiidae	long_list					Gervais' Beaked Whale
 272214	Mesoplodon ginkgodens		Ziphiidae	long_list					Ginkgo-Toothed Beaked Whale
@@ -75,7 +75,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 9733	Orcinus orca		Delphinidae	long_list	published		10.12688/wellcomeopenres.18278.1		Killer Whale
 103596	Peponocephala electra		Delphinidae	long_list	published		10.24272/j.issn.2095-8137.2022.189		Melon-Headed Whale
 34890	Phocoena dioptrica		Phocoenidae	long_list					Spectacled Porpoise
-9742	Phocoena phocoena		Phocoenidae	long_list	insdc_open			DToL	Harbour Porpoise
+9742	Phocoena phocoena		Phocoenidae	long_list	published		10.12688/wellcomeopenres.24011.1	DToL	Harbour Porpoise
 42100	Phocoena sinus		Phocoenidae	long_list	published		10.1111/1755-0998.13284		Vaquita
 27614	Phocoena spinipinnis		Phocoenidae	long_list					Burmeister's Porpoise
 9744	Phocoenoides dalli		Phocoenidae	long_list					Dall's Porpoise
@@ -92,12 +92,12 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 511736	Sousa teuszii		Delphinidae	long_list					Atlantic Humpbacked Dolphin
 9735	Stenella attenuata		Delphinidae	long_list					Pantropical Spotted Dolphin
 103589	Stenella clymene		Delphinidae	long_list					Clymene Dolphin
-9737	Stenella coeruleoalba		Delphinidae	long_list	insdc_open				Striped Dolphin
+9737	Stenella coeruleoalba		Delphinidae	long_list	published		10.12688/wellcomeopenres.23374.1		Striped Dolphin
 103590	Stenella frontalis		Delphinidae	long_list					Atlantic Spotted Dolphin
 9736	Stenella longirostris		Delphinidae	long_list					Spinner Dolphin
 46167	Steno bredanensis		Delphinidae	long_list					Rough-Toothed Dolphin
 52116	Tasmacetus shepherdi		Ziphiidae	long_list	data_generation			LOEWE-TBG	Shepherd's Beaked Whale
 79784	Tursiops aduncus		Delphinidae	long_list					Indo-Pacific Bottlenose Dolphin
 2944587	Tursiops erebennus		Delphinidae	long_list					Tamanend's bottlenose dolphin
-9739	Tursiops truncatus		Delphinidae	long_list	insdc_open				Common Bottlenose Dolphin
+9739	Tursiops truncatus		Delphinidae	long_list	published		10.3389/fmars.2025.1562045		Common Bottlenose Dolphin
 9760	Ziphius cavirostris		Ziphiidae	long_list	in_assembly			"LOEWE-TBG, DToL"	Cuvier's Beaked Whale
