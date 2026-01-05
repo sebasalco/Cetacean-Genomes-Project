@@ -9,11 +9,11 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 27602	Balaena mysticetus		Balaenidae	long_list	in assembly				Bowhead Whale
 9767	Balaenoptera acutorostrata		Balaenopteridae	long_list	published		10.12688/wellcomeopenres.23367.1		Common Minke Whale
 33556	Balaenoptera bonaerensis		Balaenopteridae	long_list					Antarctic Minke Whale
-9768	Balaenoptera borealis		Balaenopteridae	long_list	published			10.12688/wellcomeopenres.25411.1	Sei Whale
+9768	Balaenoptera borealis		Balaenopteridae	long_list	published		10.12688/wellcomeopenres.25411.1		Sei Whale
 9769	Balaenoptera edeni		Balaenopteridae	long_list					Bryde's Whale
 9771	Balaenoptera musculus		Balaenopteridae	long_list	published		10.1093/molbev/msae036		Blue Whale
 255217	Balaenoptera omurai		Balaenopteridae	long_list					Omura's Whale
-9770	Balaenoptera physalus		Balaenopteridae	long_list	published			10.12688/wellcomeopenres.25412.1	Fin Whale
+9770	Balaenoptera physalus		Balaenopteridae	long_list	published		10.12688/wellcomeopenres.25412.1		Fin Whale
 2746895	Balaenoptera ricei		Balaenopteridae	long_list	published		10.3389/fmars.2025.1562045		Rice's whale
 74391	Berardius arnuxii		Ziphiidae	long_list					Arnoux's Beaked Whale
 48742	Berardius bairdii		Ziphiidae	long_list	done			LOEWE-TBG	Baird's Beaked Whale
@@ -33,7 +33,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 103592	Feresa attenuata		Delphinidae	long_list					Pygmy Killer Whale
 38241	Globicephala macrorhynchus		Delphinidae	long_list					Short-Finned Pilot Whale
 9731	Globicephala melas		Delphinidae	long_list	published		10.12688/wellcomeopenres.23919.1		Long-Finned Pilot Whale
-83653	Grampus griseus		Delphinidae	long_list	published			10.35802/218328/wellcomeopenres.24752.1	Risso's Dolphin
+83653	Grampus griseus		Delphinidae	long_list	published		10.35802/218328/wellcomeopenres.24752.1		Risso's Dolphin
 48744	Hyperoodon ampullatus		Ziphiidae	long_list	published		10.12688/wellcomeopenres.22743.1		North Atlantic Bottlenose Whale
 74392	Hyperoodon planifrons		Ziphiidae	long_list					Southern Bottlenose Whale
 221924	Indopacetus pacificus		Ziphiidae	long_list	data_generation			LOEWE-TBG	Indo-Pacific Beaked Whale
@@ -41,7 +41,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 27615	Kogia breviceps		Kogiidae	long_list	published		10.3389/fmars.2025.1562045		Pygmy Sperm Whale
 9752	Kogia sima		Kogiidae	long_list					Dwarf Sperm Whale
 103594	Lagenodelphis hosei		Delphinidae	long_list					Fraser's Dolphin
-90246	Leucopleurus acutus		Delphinidae	long_list	published			10.12688/wellcomeopenres.25421.1	Atlantic White-Sided Dolphin
+90246	Leucopleurus acutus		Delphinidae	long_list	published		10.12688/wellcomeopenres.25421.1		Atlantic White-Sided Dolphin
 27610	Lagenorhynchus albirostris		Delphinidae	long_list	published		10.12688/wellcomeopenres.23369.1		White-Beaked Dolphin
 103586	Lagenorhynchus australis		Delphinidae	long_list					Peale's Dolphin
 103587	Lagenorhynchus cruciger		Delphinidae	long_list					Hourglass Dolphin
