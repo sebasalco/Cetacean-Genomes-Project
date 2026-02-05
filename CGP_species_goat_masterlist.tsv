@@ -16,13 +16,13 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 9770	Balaenoptera physalus		Balaenopteridae	long_list	published		10.12688/wellcomeopenres.25412.1		Fin Whale
 2746895	Balaenoptera ricei		Balaenopteridae	long_list	published		10.3389/fmars.2025.1562045		Rice's whale
 74391	Berardius arnuxii		Ziphiidae	long_list					Arnoux's Beaked Whale
-48742	Berardius bairdii		Ziphiidae	long_list	done			LOEWE-TBG	Baird's Beaked Whale
+48742	Berardius bairdii		Ziphiidae	long_list	in_assembly			LOEWE-TBG	Baird's Beaked Whale
 2608848	Berardius minimus		Ziphiidae	long_list					Black beaked whale
 27604	Caperea marginata		Neobalaenidae	long_list					Pygmy Right Whale
 103582	Cephalorhynchus commersonii		Delphinidae	long_list					Commerson's Dolphin
 27608	Cephalorhynchus eutropia		Delphinidae	long_list					Chilean Dolphin
 103583	Cephalorhynchus heavisidii		Delphinidae	long_list					Heaviside's Dolphin
-37035	Cephalorhynchus hectori		Delphinidae	long_list	done			https://data.agdr.org.nz/discovery/NZ-00058/	Hector's Dolphin
+37035	Cephalorhynchus hectori		Delphinidae	long_list	published		https://doi.org/10.1111/1755-0998.14109	https://data.agdr.org.nz/discovery/NZ-00058/	Hector's Dolphin
 9749	Delphinapterus leucas		Monodontidae	long_list	in assembly				Beluga
 103584	Delphinus capensis		Delphinidae	long_list					Long-Beaked Common Dolphin
 9728	Delphinus delphis		Delphinidae	long_list	published		10.3389/fmars.2025.1562045		Short-Beaked (saddle-backed) Common Dolphin
