@@ -44,7 +44,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 90246	Leucopleurus acutus		Delphinidae	long_list	published		10.12688/wellcomeopenres.25421.1		Atlantic White-Sided Dolphin
 27610	Lagenorhynchus albirostris		Delphinidae	long_list	published		10.12688/wellcomeopenres.23369.1		White-Beaked Dolphin
 103586	Lagenorhynchus australis		Delphinidae	long_list					Peale's Dolphin
-103587	Lagenorhynchus cruciger		Delphinidae	long_list					Hourglass Dolphin
+103587	Lagenorhynchus cruciger		Delphinidae	long_list	published		10.1093/g3journal/jkaf044	https://data.agdr.org.nz/discovery/NZ-00046	Hourglass Dolphin
 90247	Lagenorhynchus obliquidens		Delphinidae	long_list					Pacific White-Sided Dolphin
 27611	Lagenorhynchus obscurus		Delphinidae	long_list					Dusky Dolphin
 118797	Lipotes vexillifer		Lipotidae	long_list					Baiji
