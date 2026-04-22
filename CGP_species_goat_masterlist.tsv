@@ -83,7 +83,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 118798	Platanista gangetica		Platanistidae	long_list					Ganges River Dolphin
 48752	Platanista minor		Platanistidae	long_list					Indus River dolphin
 48723	Pontoporia blainvillei		Pontoporiidae	long_list					Franciscana
-82174	Pseudorca crassidens		Delphinidae	long_list	published			VGP	False Killer Whale
+82174	Pseudorca crassidens		Delphinidae	long_list	published		10.1093/jhered/esag031	VGP	False Killer Whale
 103598	Sotalia fluviatilis		Delphinidae	long_list					Tucuxi
 338729	Sotalia guianensis		Delphinidae	long_list					Guiana Dolphin
 103600	Sousa chinensis		Delphinidae	long_list					Indo-Pacific Humpbacked Dolphin
