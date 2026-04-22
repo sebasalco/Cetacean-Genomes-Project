@@ -97,7 +97,7 @@ ncbi_taxon_id	species	subspecies	family	target_list_status	sequencing_status	syn
 9736	Stenella longirostris		Delphinidae	long_list					Spinner Dolphin
 46167	Steno bredanensis		Delphinidae	long_list					Rough-Toothed Dolphin
 52116	Tasmacetus shepherdi		Ziphiidae	long_list	data_generation			LOEWE-TBG	Shepherd's Beaked Whale
-79784  Tursiops aduncus		Delphinidae	long_list					Indo-Pacific Bottlenose Dolphin
+79784  Tursiops aduncus    Delphinidae  long_list          Indo-Pacific Bottlenose Dolphin
 2944587	Tursiops erebennus		Delphinidae	long_list					Tamanend's bottlenose dolphin
 152705  Tursiops truncatus gephyreus    Delphinidae  long_list          Lahille's bottlenose dolphin
 9739	Tursiops truncatus		Delphinidae	long_list	published		10.3389/fmars.2025.1562045		Common Bottlenose Dolphin
